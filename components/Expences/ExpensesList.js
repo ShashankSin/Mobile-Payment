@@ -4,4 +4,4 @@ function ExpensesList() {
   return <div></div>
 }
 
-export defaultiExpensesList
+export default ExpensesList
